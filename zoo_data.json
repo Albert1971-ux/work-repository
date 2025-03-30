@@ -1,0 +1,36 @@
+{
+  "zoo_name": "Мой зоопарк",
+  "animals": [
+    {
+      "name": "Попугай Кеша",
+      "age": 2,
+      "type": "Bird",
+      "wingspan": 15
+    },
+    {
+      "name": "Лев Симба",
+      "age": 5,
+      "type": "Mammal",
+      "fur_color": "золотистый"
+    },
+    {
+      "name": "Змея Каа",
+      "age": 3,
+      "type": "Reptile",
+      "scale_type": "гладкая"
+    }
+  ],
+  "staff": [
+    {
+      "name": "Иван Иванов",
+      "experience": 5,
+      "type": "ZooKeeper"
+    },
+    {
+      "name": "Доктор Айболит",
+      "specialization": "Экзотические животные",
+      "type": "Veterinarian"
+    }
+  ],
+  "last_fed": null
+}
